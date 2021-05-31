@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">implicit intent</string>
+    <string name="http_developer_android_com">http_developer_android_com</string>
+    <string name="open_website">Open Website</string>
+    <string name="open_location">open location</string>
+    <string name="openlocation">Open Location</string>
+    <string name="enterattext">ente a text</string>
+</resources>
